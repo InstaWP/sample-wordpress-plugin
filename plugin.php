@@ -3,7 +3,7 @@
 Plugin Name: Hello World
 Description: A simple "Hello World" plugin.
 Author: Your Name
-Version: 1.0
+Version: 1.0.1
 */
 
 function hello_world_display() {
