@@ -7,7 +7,7 @@ Version: 1.0.1
 */
 
 function hello_world_display() {
-  echo "Hello World!";
+  echo "Hello World using a template";
 }
 
 add_action( 'wp_footer', 'hello_world_display' );
