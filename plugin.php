@@ -11,3 +11,4 @@ function hello_world_display() {
 }
 
 add_action( 'wp_footer', 'hello_world_display' );
+
