@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: My New Plugin
+Plugin Name: My New Plugin Demo
 Description: A simple "Hello World" plugin.
 Author: Your Name
-Version: 1.1.0
+Version: 1.1.1
 */
 
 function hello_world_display() {
